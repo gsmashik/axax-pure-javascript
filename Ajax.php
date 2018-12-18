@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<input onclick='makerequest("POST","ajax-get.php",true,"result",params2)' type="button" value="">
+<input onclick='makerequest("POST","ajax-post.php",true,"result",params2)' type="button" value="">
 <div id="result"></div>
 <script type="text/javascript">
 
